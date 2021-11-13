@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+![Logo](https://i.ibb.co/zVfS2Py/Ride-Bike-Logo.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# RideBike - We Keep You Riding!
 
-## Available Scripts
+If you are searching for a collection of Bike Quotes or Motorcycle Quotes, bike caption, bike love quotes, new bike quotes, bike riding quotes, my bike quotes, bike lover quotes then you are on the best website on the internet. Stay Calm and read our Collection.
 
-In the project directory, you can run:
+Nowadays every young age boy loves to ride a bike when we are teenagers or in school having a bike is our first dream. I always had a discussion with my friends in my childhood about which bike I love the most. After growing up when we have our own personal bike it’s like a dream come true.
 
-### `yarn start`
+Riding a bike in a valley or mountain with friends is one of the great feelings. Having a long drive with your bike makes you feel cheerful. If you are depressed or feeling lonely, believe me, take your bike with you and go for a long drive.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+If you put your riding picture on Instagram or Facebook you surely check on google, bike caption today I am solving this problem. Below are the best collection of Bike caption, riders caption, motorcycle captions, the caption for bikes whatever you are searching for.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A biker always loves to have bike riding quotes in his room where he lives. This will keep him motivating towards riding. Let see some of the best quotes on the bike, and quotes for bikers below which you can also share on Whatsapp or Facebook, And Instagram.
 
-### `yarn test`
+## Authors
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-   [@ibnumahtab](https://www.github.com/ibnumahtab)
 
-### `yarn build`
+## Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Firebase Live Link](https://ibnu-medical.netlify.app/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   Live previews
+-   Fullscreen mode
+-   Cross platform
+-   Google Authentication
+-   Firebase
+-   NodeJS
 
-### `yarn eject`
+## FAQ
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Is this project comes with React Route?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Yes, Including Private Route with Google Authentication.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Any CSS Frameworks?
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Tailwind CSS
