@@ -6,6 +6,7 @@ import Advantages from '../../singleComponents/Advantages/Advantages';
 import Banner from '../../singleComponents/Banner/Banner';
 import ShopSection from '../../singleComponents/ShopSection/ShopSection';
 import TestimonialSection from '../../singleComponents/TestimonialSection/TestimonialSection';
+import AboutHome from '../../singleComponents/HomeAbout/HomeAbout';
 
 const Home = () => {
 	return (
@@ -13,6 +14,7 @@ const Home = () => {
 			<AppBar></AppBar>
 			<Banner></Banner>
 			<Advantages></Advantages>
+			<AboutHome></AboutHome>
 			<ShopSection></ShopSection>
 			<TestimonialSection></TestimonialSection>
 			<AdBanner></AdBanner>
