@@ -97,7 +97,7 @@ const Login = () => {
 									<input
 										onBlur={getPassword}
 										className='bg-transparent p-2 w-full my-2 border-b-2 focus:outline-none border-gray-500'
-										type='text'
+										type='password'
 										placeholder='Password'
 									/>
 								</div>
