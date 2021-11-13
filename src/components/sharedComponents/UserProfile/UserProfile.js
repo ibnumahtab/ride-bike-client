@@ -6,7 +6,7 @@ import useAuth from '../../../hooks/useAuth';
 const UserProfile = () => {
 	const { user, logOut } = useAuth();
 	return (
-		<div className='w-48 absolute right-0 rounded text-white text-center z-50 overflow-auto border border-dashed mt-5'>
+		<div className='w-48 absolute bg-gray-900 right-0 rounded text-white text-center z-50 overflow-auto border border-dashed mt-5'>
 			<div className='container mx-auto'>
 				<div className=''>
 					{user?.photoURL ? (

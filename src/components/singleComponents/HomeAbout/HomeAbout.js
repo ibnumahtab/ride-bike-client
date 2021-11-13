@@ -4,7 +4,7 @@ import { useHistory } from 'react-router-dom';
 const AboutHome = () => {
 	const aboutus = useHistory();
 	const handleAboutUs = () => {
-		aboutus.push('/aboutUs');
+		aboutus.push('/about-us');
 	};
 	return (
 		<div>

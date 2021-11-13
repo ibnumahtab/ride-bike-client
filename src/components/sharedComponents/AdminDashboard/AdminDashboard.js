@@ -46,7 +46,7 @@ const AdminDashboard = () => {
             >
                 <div className='flex items-center justify-center mt-10 text-center py-6'>
                     <span className='mx-2 text-2xl font-semibold text-black'>
-                        Login as {(user?.displayName) ? user?.displayName : 'Admin'}
+                        {user?.displayName ? user?.displayName : "Admin"}
                     </span>
                 </div>
 
@@ -58,11 +58,27 @@ const AdminDashboard = () => {
                     }}
                     items={[
                         {
+                            title: "Dashboard Home",
+                            itemId: `${url}/`,
+                            // Optional
+                            elemBefore: () => (
+                                <MdAdminPanelSettings></MdAdminPanelSettings>
+                            ),
+                        },
+                        {
                             title: "Create Admin",
                             itemId: `${url}/make-admin`,
                             // Optional
                             elemBefore: () => (
                                 <MdAdminPanelSettings></MdAdminPanelSettings>
+                            ),
+                        },
+                        {
+                            title: "Manage Products",
+                            itemId: `${url}/manage-products`,
+                            // Optional
+                            elemBefore: () => (
+                                <MdProductionQuantityLimits></MdProductionQuantityLimits>
                             ),
                         },
                         {
