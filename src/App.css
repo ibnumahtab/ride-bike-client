@@ -1,0 +1,35 @@
+.bg-primary{
+  background: #FE5045;
+}
+.text-primary{
+  color: #FE5045;
+}
+.bg-lightGray{
+  background: #F9FAFC;
+}
+.text-lightGray{
+  color: #F9FAFC;
+}
+.sec-title::after{
+    content: '';
+    display: block;
+    margin: 20px auto;
+    width: 100px;
+    height: 2px;
+    background-color: #FE5045;
+}
+.sp-feature-box:hover img{
+  transition:  all .7s;
+  transform: rotateY(180deg);
+  filter: brightness(10%);
+}
+.sp-feature-box:hover h2{
+  transition:  all .7s;
+  color: #FE5045;
+}
+.border-primary{
+  border-right: 1px solid #FE5045;
+}
+body{
+  font-family: 'Raleway', sans-serif;
+}
