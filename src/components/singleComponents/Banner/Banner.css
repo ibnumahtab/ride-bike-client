@@ -1,0 +1,9 @@
+.banner-container {
+	background-image: url('https://i.ibb.co/M2dR9Cs/bg1.jpg');
+	background-color: #111827;
+	background-blend-mode: overlay;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
