@@ -15,7 +15,7 @@ const UserReview = () => {
 	const onSubmit = data => {
 		console.log(data);
 		axios
-			.post('https://morning-ridge-85275.herokuapp.com/reviews', {
+			.post('https://ride-bike.herokuapp.com/reviews', {
 				...data,
 				email: user?.email,
 			})

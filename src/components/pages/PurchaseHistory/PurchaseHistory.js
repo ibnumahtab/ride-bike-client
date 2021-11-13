@@ -6,7 +6,7 @@ const PurchaseHistory = () => {
 	const { user } = useAuth();
 	const [ordersInfo, setOrdersInfo] = useState([]);
 	useEffect(() => {
-		fetch(`https://morning-ridge-85275.herokuapp.com/orders`)
+		fetch(`https://ride-bike.herokuapp.com/orders`)
 			.then(res => res.json())
 			.then(data => {
 				console.log(data);
@@ -17,7 +17,7 @@ const PurchaseHistory = () => {
 	const cancelOrder = id => {
 		const proceed = swal('Sure to Cancel you Order?');
 		if (proceed) {
-			const url = `https://morning-ridge-85275.herokuapp.com/orders/${id}`;
+			const url = `https://ride-bike.herokuapp.com/orders/${id}`;
 			fetch(url, {
 				method: 'DELETE',
 			})
