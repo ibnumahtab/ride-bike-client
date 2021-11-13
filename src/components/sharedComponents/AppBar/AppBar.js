@@ -202,7 +202,7 @@ const Navigation = () => {
 															onClick={toggle}
 														>
 															<img
-																className='w-8 h-8 rounded-full'
+																className='w-12 h-12 rounded-full'
 																src={
 																	user.photoURL
 																}
