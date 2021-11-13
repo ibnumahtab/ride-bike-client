@@ -18,7 +18,7 @@ A biker always loves to have bike riding quotes in his room where he lives. This
 
 ## Demo
 
-[Firebase Live Link](https://ibnu-medical.netlify.app/)
+[Firebase Live Link](https://ride-bike-shop.web.app/)
 
 ## Features
 
