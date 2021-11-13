@@ -1,12 +1,12 @@
 import React from 'react';
 import Footer from '../../sharedComponents/Footer/Footer';
 import AppBar from '../../sharedComponents/AppBar/AppBar';
-import AdBanner from '../../singleComponents/AdBanner/AdBanner';
 import Advantages from '../../singleComponents/Advantages/Advantages';
 import Banner from '../../singleComponents/Banner/Banner';
 import ShopSection from '../../singleComponents/ShopSection/ShopSection';
 import TestimonialSection from '../../singleComponents/TestimonialSection/TestimonialSection';
 import AboutHome from '../../singleComponents/HomeAbout/HomeAbout';
+import Newslatter from '../../singleComponents/Newslatter/Newslatter';
 
 const Home = () => {
 	return (
@@ -16,8 +16,8 @@ const Home = () => {
 			<Advantages></Advantages>
 			<AboutHome></AboutHome>
 			<ShopSection></ShopSection>
+			<Newslatter></Newslatter>
 			<TestimonialSection></TestimonialSection>
-			<AdBanner></AdBanner>
 			<Footer></Footer>
 		</div>
 	);

@@ -1,0 +1,102 @@
+#subscribe-section h1,
+#subscribe-section h2,
+#subscribe-section h3 {
+	margin: 0;
+	color: #464545;
+	font-family: 'Alata', sans-serif;
+	line-height: 1.5em;
+}
+
+#subscribe-section h1 {
+	font-size: 60px;
+}
+
+#subscribe-section h2 {
+	font-size: 40px;
+}
+
+#subscribe-section h3 {
+	font-size: 28px;
+}
+
+#subscribe-section span {
+	color: #f59e0b;
+}
+
+#subscribe-section a {
+	color: #f59e0b;
+	text-decoration: none;
+}
+
+#subscribe-section a:hover,
+.btn:hover {
+	cursor: pointer;
+}
+
+#subscribe-section img {
+	width: 100%;
+}
+
+#subscribe-section section {
+	padding: 70px 0;
+}
+
+#subscribe-section input,
+#subscribe-section input:focus {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 30px;
+	padding: 15px 25px;
+	color: #464545;
+	font-family: 'Comfortaa', cursive;
+	font-size: 22px;
+	background-color: #82828250;
+	border: none;
+	border-radius: 40px;
+	outline: none;
+	box-sizing: border-box;
+}
+
+/* --> Common Classes <-- */
+#subscribe-section .container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+#subscribe-section .flex-display {
+	display: flex;
+}
+
+#subscribe-section .flex-items {
+	width: 50%;
+	align-self: center;
+}
+
+#subscribe-section .btn {
+	display: inline-block;
+	margin-top: 20px;
+	padding: 15px 25px;
+	color: #e8e8e8;
+	background-image: linear-gradient(to right, #111827, #111827c9);
+	border-radius: 40px;
+}
+
+/* --> Subscribe Section <-- */
+#subscribe-section {
+	background: url('https://i.ibb.co/d5pFmKM/about.png') no-repeat
+		right/contain;
+	margin: 80px 0;
+}
+
+#subscribe-section .subscribe-title {
+	margin-bottom: 40px;
+}
+
+#subscribe-section .subscribe-form input[type='text'] {
+	width: 40%;
+}
+
+#subscribe-section .subscribe-form input[type='submit'] {
+	width: 15%;
+	margin-left: 20px;
+}
