@@ -82,7 +82,7 @@ const Login = () => {
 							action=''
 						>
 							<h2 className='custom-color text-8xl font-bold text-center py-5'>
-								Login
+								Sign In
 							</h2>
 							<form action='' onSubmit={emailPassLogin}>
 								<div className='mb-2'>

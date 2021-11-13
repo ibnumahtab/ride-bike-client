@@ -22,7 +22,7 @@ const BasicProfile = () => {
 						)}
 					</div>
 					<div className='w-3/4'>
-						<h2 className='text-3xl'>{user?.displayName}</h2>
+						<h2 className='text-	xl'>{user?.displayName}</h2>
 						<h2 className='text-3xl'>{user?.email}</h2>
 					</div>
 				</div>

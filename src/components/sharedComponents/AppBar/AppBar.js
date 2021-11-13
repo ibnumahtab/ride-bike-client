@@ -106,7 +106,7 @@ const Navigation = () => {
 													) : (
 														<button
 															onClick={toggle}
-															className='text-3xl text-yellow-500'
+															className='text-3xl text-yellow-300'
 														>
 															<FaUserCircle></FaUserCircle>
 														</button>

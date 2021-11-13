@@ -29,9 +29,7 @@ const DashboardSidebar = () => {
 					className='btn-menu'
 					onClick={() => setIsSidebarOpen(true)}
 					type='button'
-				>
-					<Icon name='burger' className='w-6 h-6' />
-				</button>
+				></button>
 			</div>
 
 			{/* Sidebar */}
@@ -43,10 +41,10 @@ const DashboardSidebar = () => {
 				}`}
 			>
 				<div className='flex items-center justify-center mt-10 text-center py-6'>
-					<span className='mx-2 text-2xl font-semibold text-black'>
+					<span className='mx-2 text-2xl font-semibold text-gray-900'>
 						<img src={user?.photoURL} alt='' />
 					</span>
-					<span className='mx-2 text-2xl font-semibold text-black'>
+					<span className='mx-2 text-2xl font-semibold text-gray-900'>
 						{user?.displayName}
 					</span>
 				</div>
