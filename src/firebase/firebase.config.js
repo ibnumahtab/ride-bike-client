@@ -1,10 +1,10 @@
 const firebaseConfig = {
-	apiKey: 'AIzaSyC8muA7fM6jH9wcux7CSIMB0lERy1QonOA',
-	authDomain: 'ride-bike-explore.firebaseapp.com',
-	projectId: 'ride-bike-explore',
-	storageBucket: 'ride-bike-explore.appspot.com',
-	messagingSenderId: '18313933493',
-	appId: '1:18313933493:web:cd7679f6ef98352b1784fc',
+	apiKey: 'AIzaSyDKM3h2zDqLUyZy0onZXDjeCtxI8-VhNL8',
+	authDomain: 'ride-bike-shop.firebaseapp.com',
+	projectId: 'ride-bike-shop',
+	storageBucket: 'ride-bike-shop.appspot.com',
+	messagingSenderId: '16687168349',
+	appId: '1:16687168349:web:160648b78bebd0a09e86b4',
 };
 
 export default firebaseConfig;
