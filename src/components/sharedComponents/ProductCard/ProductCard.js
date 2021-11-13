@@ -16,31 +16,6 @@ const ProductCard = ({ product }) => {
 		stock,
 	} = product;
 	return (
-		// <div className='shadow-xl p-4'>
-		// 	<div className='relative'>
-		// 		<img src={productThumb} alt='' />
-		// 	</div>
-		// 	<h2 className='text-center text-2xl text-primary font-bold pt-2'>
-		// 		{productName}
-		// 	</h2>
-		// 	<div className='text-center mt-4'>
-		// 		<Rating
-		// 			emptySymbol={
-		// 				<FaRegStar className='text-yellow-400'></FaRegStar>
-		// 			}
-		// 			fullSymbol={<FaStar className='text-yellow-400'></FaStar>}
-		// 			initialRating={productRating}
-		// 			readonly
-		// 		></Rating>
-		// 	</div>
-		// 	<h3 className='text-center text-xl pb-8'>{productType}</h3>
-		// 	<div className='flex justify-between'>
-		// 		<h2> $ {productPrice}</h2>
-		// 		<del className='text-gray-400'> $ {productPrevPrice}</del>
-		// 	</div>
-
-		// </div>
-
 		<div className='border border-gray-600 p-16 shadow-inner'>
 			<div className='border border-gray-400 shadow-lg p-3'>
 				<div className='p-3'>
