@@ -28,6 +28,22 @@ A biker always loves to have bike riding quotes in his room where he lives. This
 -   Google Authentication
 -   Firebase
 -   NodeJS
+-   Different Dashboard for Users and Admin
+-   Feedback
+-   Add or Delete Products
+-   Make Admin
+-   Update Product and Add to Cart etc.
+
+##  Tools
+-   ReactJS
+-   NodeJS
+-   ExpressJS
+-   MongoDB
+-   Firebase etc.
+
+##  Extras 
+-   Responsive 
+-   Image and Code Optimized 
 
 ## FAQ
 
